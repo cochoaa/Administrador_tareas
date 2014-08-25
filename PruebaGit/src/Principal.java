@@ -15,6 +15,8 @@ public class Principal {
      */
     public static void main(String[] args) {
         System.out.println("hola que hace XD");
+        Integer number= new Integer("2");
+        System.out.println("Nuevo cambio  integer: XD"+number);
     }
     
 }
