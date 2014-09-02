@@ -11,5 +11,13 @@ package DAO;
  * @author usuario
  */
 public class CursoDAO {
-    
+    private int  id;
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
 }
